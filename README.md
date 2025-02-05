@@ -10,7 +10,7 @@ Key Features:
 ✅ Smooth Animations: CSS transitions for an engaging UI.
 
 Live Demo:
-👉 
+👉 https://aasiksifran17.github.io/Nintavur-Pizza-Restaurant/
 
 GitHub Repo:
 🔗 https://github.com/aasiksifran17/Nintavur-Restaurant.git
